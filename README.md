@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakbhagatiitr&label=Profile%20views&color=0e75b6&style=flat" alt="deepakbhagatiitr" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning.**
+- 🌱 I’m currently learning **Data Science.**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-deepak-bhagat.vercel.app/](https://portfolio-deepak-bhagat.vercel.app/)
 
