@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Data Science.**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-deepak-bhagat.vercel.app/](https://portfolio-deepak-bhagat.vercel.app/)
-
 - 📫 How to reach me **deepak988088@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
