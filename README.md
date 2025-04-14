@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Science.**
 
-- 📫 How to reach me **deepak988088@gmail.com**
+- 📫 How to reach me **deepak1@me.iitr.ac.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
