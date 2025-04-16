@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakbhagatiitr&label=Profile%20views&color=0e75b6&style=flat" alt="deepakbhagatiitr" /> </p>
 
-- 🌱 I’m currently learning **Data Science & Gen AI.**
+- 🌱 I’m currently learning **Data Analysis & Gen AI.**
 
 - 📫 How to reach me **deepak1@me.iitr.ac.in**
 
