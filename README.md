@@ -1,11 +1,16 @@
 <h1 align="center">Hi 👋, I'm Deepak Bhagat</h1>
 <h3 align="center">A Passionate Software Engineer from Delhi, India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakbhagatiitr&label=Profile%20views&color=0e75b6&style=flat" alt="deepakbhagatiitr" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=deepakbhagatiitr&label=Profile%20views&color=0e75b6&style=flat" alt="deepakbhagatiitr" />
+</p>
 
 - 🌱 I’m currently learning **Data Science**.
 
-- 📫 How to reach me **deepak1@me.iitr.ac.in**
+- 📫 How to reach me: **deepak1@me.iitr.ac.in**
+
+- 🌐 Check out my portfolio: [https://portfolio-deepak-bhagat.vercel.app/](https://portfolio-deepak-bhagat.vercel.app/)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
